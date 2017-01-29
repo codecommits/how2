@@ -1,2 +1,4 @@
-# How to do something is part of our every day task.
-All common problems resolved in this repository.
+# How to.
+h3 How to is part of our everyday life.
+
+In this repository I decided to put every single problem that I resolved start from now.
