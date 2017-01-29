@@ -1,0 +1,9 @@
+How to write to mac os x hard drive from ubunto
+
+Run this in your terminal to list all dist in ubuntu.
+ 	- sudo fdisk -l
+
+Then Create folder in Media directory using this command.
+	- mkdir -p /media/mac
+Finally mount your drive with this command.
+	- sudo mount -t hfsplus -o force,rw /dev/sdb2 /media/mac
